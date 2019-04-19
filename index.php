@@ -1,3 +1,10 @@
-<?php
-echo "hello";
-?>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+ÄãºÃ£¬ÊÀ½ç
+</body>
+</html>
